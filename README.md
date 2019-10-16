@@ -1,2 +1,3 @@
-# myfirstrepo
-Python codes for beginners...
+# python codes..
+	Some python programs for beginners
+	
